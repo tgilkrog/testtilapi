@@ -1,1 +1,4 @@
-code snippet
+<?php 
+public function newfunc(){
+  return 'what';
+}
